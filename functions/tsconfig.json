@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "esnext.array"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "target": "es2017",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "types": ["node"]
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}
